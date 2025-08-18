@@ -22,7 +22,5 @@ Make sure you have VS Code with the *Github Copilot Chat* extension.
 
 1. git clone https://github.com/mschluper/SpecDrivenDevelopment
 2. cd SpecDrivenDevelopment
-3. rm -rf src
-4. rm -rf tests
-5. Open *Copilot Chat* and give it the first prompt
-6. See the magic happen (with a few confirmation clicks)
+3. Open *Copilot Chat* and give it the first prompt
+4. See the magic happen (with a few confirmation clicks)
